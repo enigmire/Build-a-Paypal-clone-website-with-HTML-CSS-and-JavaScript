@@ -87,7 +87,7 @@ li {
   /* transform: translate(50%, -50%); */
   height: 80vh;
   margin: 200px 0 120px;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(/man.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(./images/cellular-man.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
