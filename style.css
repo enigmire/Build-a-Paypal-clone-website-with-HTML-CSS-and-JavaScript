@@ -550,6 +550,10 @@ a.btn.newsletter-btn {
   .menu-tag p:hover {
     text-decoration: underline;
   }
+
+  .menu-btn i {
+    margin-right: 5px;
+  }
   
   .btn-sign-up {
     width: 100%;
@@ -575,12 +579,16 @@ a.btn.newsletter-btn {
   .inner-links p {
     margin-bottom: 20px;
   }
-  .inner-links p:hover {
+  .innerlink-btn:hover {
     text-decoration: underline;
   }
 
   .inner-links .menu-tag {
     border-bottom: none;
+  }
+
+  .innerlink-btn i {
+    margin-right: 5px;
   }
   .online {
     margin: 20px auto 50px;
